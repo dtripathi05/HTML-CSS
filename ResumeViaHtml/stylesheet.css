@@ -1,0 +1,83 @@
+
+body
+{
+	margin: 0;
+}
+h3,h2,p,h4,a{
+	padding: 0px;
+	margin: 0px;
+}
+
+.header-wrapper
+{
+	clear:both;
+	overflow: hidden;
+}
+h1
+{
+	text-align: center;
+	text-decoration:underline; 
+}
+.personal-info
+{
+	float: left;
+}
+.profile-pic
+{
+	float:right;
+}
+img
+{
+	width:250px;
+	height:250px;
+}
+h2{
+	
+}
+h3
+{
+background-color: rgb(173,216,230);
+border: 1px solid black;
+border-color: rgb(128,128,128);
+padding: 5px 5px 5px 5px;
+}
+h4,p
+{
+	text-decoration: underline;
+	margin: 10px 0px 10px 0px;
+}
+table
+{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    border:1px solid black;
+}
+td, th
+{
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+}
+
+#custom-border{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+th
+{
+	background-color: rgb(128,128,128);
+}
+tr
+{
+    background-color: rgb(192,192,192);
+}
+section
+{
+	padding: 0 15px;
+}
+span{
+	display: block;
+	padding :5px;
+}
